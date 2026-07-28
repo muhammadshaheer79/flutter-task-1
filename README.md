@@ -1,17 +1,16 @@
-# flutter_task_1
+## TASKS GIVEN:
 
-A new Flutter project.
+### 1) Build a StatelessWidget
 
-## Getting Started
+Create a ProfileCard widget that takes a name and a bio as constructor parameters and displays them.
 
-This project is a starting point for a Flutter application.
+### 2) Build a StatefulWidget
 
-A few resources to get you started if this is your first Flutter project:
+Create a Counter app: a number on screen with a + and − button that updates it using setState().
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 3) Combine them
+Place your ProfileCard above the Counter in a single Column, inside one Scaffold.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
