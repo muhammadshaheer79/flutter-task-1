@@ -1,4 +1,4 @@
-## TASKS GIVEN:
+## TASK GIVEN:
 
 ### 1) Build a StatelessWidget
 
